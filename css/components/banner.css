@@ -1,0 +1,9 @@
+.banner {
+  background-image: url('../../images/background.jpg');
+  padding: 150px 0;
+  color: #fff;
+}
+
+.banner h1, .banner p {
+  margin: 0;
+}
